@@ -28,8 +28,8 @@ def main():
 
 
     mydb = mysql.connector.connect(
-    host="213.142.156.8",
-    user="emn",
+    host="",
+    user="",
     password="",
     database="address",
     )
